@@ -1,0 +1,21 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+.banner {
+  background-color: #003569;
+}
+.title {
+  color: blue;
+  font-size: medium;
+  align-items: end;
+}
+
+.orng {
+  background-color: #ff6600;
+  color: white;
+}
+
+.gris {
+  background-color: #eeeeee;
+}
